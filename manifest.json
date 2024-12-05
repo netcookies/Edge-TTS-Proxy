@@ -1,0 +1,11 @@
+{
+  "domain": "edge_tts_proxy",
+  "name": "Edge TTS Proxy",
+  "codeowners": ["@netcookies", "@al-one"],
+  "documentation": "https://github.com/netcookies/edge-tts-proxy",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/netcookies/edge-tts-proxy/issues",
+  "requirements": [],
+  "config_flow": true,
+  "version": "1.0.0"
+}
